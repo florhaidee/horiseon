@@ -112,19 +112,16 @@ p {
     color: #ffffff;
 }
 
-
 .benefit h3 {
     margin-bottom: 10px;
     text-align: center;
 }
-
 
 .benefit img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
-
 
 footer {
     padding: 30px;
